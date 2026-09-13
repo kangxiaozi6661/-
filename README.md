@@ -4,7 +4,7 @@
 
 ## 下载与安装
 
-前往 [v0.1.2 发布页面](https://github.com/kangxiaozi6661/-/releases/tag/v0.1.2)，在 Assets 中下载完整发布包 ZIP。
+下载仓库中的 [GitHub发布包-v0.1.2.zip](./GitHub发布包-v0.1.2.zip)：打开文件页面后点击 **Download raw file**，或使用 GitHub Desktop 克隆仓库获取完整文件。
 
 解压后，运行 `Release附件/codex-quota-pet-0.1.2-x64-setup.exe`。需要本机 Codex 已使用 ChatGPT 账号登录。
 
